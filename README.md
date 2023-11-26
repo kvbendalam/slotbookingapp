@@ -66,6 +66,7 @@ Welcome to the Slot Booking Application repository! This application provides a 
 6. Confirm and complete the booking process.
 
 ## Screenshots
+![image](https://github.com/kvbendalam/slotbookingapp/assets/20722543/d6661e8b-a44a-4a54-8d5e-0c8cf9ab3c7e)
 
 ![image](https://github.com/kvbendalam/slotbookingapp/assets/20722543/0514d663-c723-46c9-bb94-609505557ec7)
 
